@@ -1,0 +1,47 @@
+# R-specific files to ignore
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+
+# RStudio
+.rstudio
+.rstudio/
+*.Rproj.user/
+
+# Data files (usually large, regenerated, or sensitive)
+data_raw/*.csv
+data_raw/*.tif
+data_raw/*.tiff
+data_raw/*.shp
+data_raw/*.dbf
+data_raw/*.shx
+data_raw/*.prj
+
+# Generated outputs (keep code, not outputs)
+outputs/*.png
+outputs/*.pdf
+outputs/*.csv
+outputs/*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Keep the folder structure but not the files
+!data_raw/.gitkeep
+!data_clean/.gitkeep
+!outputs/.gitkeep
