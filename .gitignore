@@ -1,0 +1,35 @@
+# Data files (regenerated from scripts)
+project-01-reef-geospatial/data/raw/*.csv
+project-01-reef-geospatial/data/raw/*.tif
+project-01-reef-geospatial/data/raw/*.tiff
+project-01-reef-geospatial/data/processed/*.csv
+project-01-reef-geospatial/outputs/*.png
+project-01-reef-geospatial/outputs/*.pdf
+project-01-reef-geospatial/outputs/*.csv
+project-01-reef-geospatial/generate_raw_data.r
+
+project-02-eco-socio-integration/data/raw/*.csv
+project-02-eco-socio-integration/data/processed/*.csv
+project-02-eco-socio-integration/outputs/*.png
+project-02-eco-socio-integration/outputs/*.pdf
+project-02-eco-socio-integration/outputs/*.csv
+project-02-eco-socio-integration/generate_eco_socio_data.r
+
+# R files
+.Rhistory
+.Rdata
+.RDataTmp
+*.Rproj
+.Rproj.user/
+
+# System files
+.DS_Store
+Thumbs.db
+.directory
+
+# IDE files
+.vscode/
+.idea/
+
+# Keep directory structure
+!**/.gitkeep
