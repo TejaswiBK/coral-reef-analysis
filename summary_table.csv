@@ -1,9 +1,0 @@
-temp_category,depth_category,n_sites,mean_coral,mean_biomass
-Cool (<24°C),Deep (>20m),7,54.4,292.3
-Cool (<24°C),Medium (10-20m),11,55.2,239.8
-Cool (<24°C),Shallow (<10m),4,43.7,222.3
-Medium (24-26°C),Deep (>20m),5,46.3,227.5
-Medium (24-26°C),Medium (10-20m),8,31.7,365.3
-Medium (24-26°C),Shallow (<10m),11,52.6,309.9
-Warm (>26°C),Deep (>20m),1,33.4,173.4
-Warm (>26°C),Medium (10-20m),3,57.6,276.1
