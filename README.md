@@ -71,6 +71,6 @@ Tejaswi Telaginamani
 KAUST, Thuwal, Saudi Arabia
 
 ## Purpose
-Preparation for Research Specialist position interview at Integrated Reef Fisheries Lab, KAUST.
+Demonstration for Research Specialist position at Integrated Reef Fisheries Lab, KAUST.
 
 
