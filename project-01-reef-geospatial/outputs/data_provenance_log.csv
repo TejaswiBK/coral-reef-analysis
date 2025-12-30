@@ -1,0 +1,6 @@
+step,timestamp,files_involved,records_retained
+Raw data generated,2025-12-29T21:06:17Z,generate_raw_data.R,50
+Raw data files created,2025-12-29T21:06:17Z,"reef_survey_sites_raw.csv, sst_raw.tif, depth_raw.tif",50
+Data cleaning performed,2025-12-29T21:06:17Z,analyze_reef_data.R,38
+Spatial operations completed,2025-12-29T21:06:17Z,analyze_reef_data.R,38
+Analysis and visualization complete,2025-12-29T21:06:17Z,analyze_reef_data.R,38
