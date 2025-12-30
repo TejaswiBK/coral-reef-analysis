@@ -1,0 +1,7 @@
+step,records_count,percent_retained
+Ecological raw data loaded,30,100
+Socio-economic raw data loaded,30,100
+Ecological cleaning complete,22,73.3
+Socio-economic cleaning complete,24,80
+Data integration complete,22,100
+Analysis and visualization complete,22,100
